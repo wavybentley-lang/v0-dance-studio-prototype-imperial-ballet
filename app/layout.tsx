@@ -25,12 +25,12 @@ const dancingScript = Dancing_Script({
   display: 'swap',
 })
 
-const siteUrl = 'https://v0-dance-studio-turin-dance-prototy.vercel.app'
+const siteUrl = 'https://v0-dance-studio-prototype-imperial.vercel.app'
 const siteName = brand.name
 const siteTitle = 'Imperial Ballet | Scuola di Danza'
 const siteDescription =
   'Imperial Ballet e una scuola di danza diretta da Melania e Rossella Mellino, con percorsi per bambini, ragazzi e adulti in un ambiente professionale e stimolante.'
-const ogImage = `${siteUrl}/turin danza2.0/og.jpg`
+const ogImage = `${siteUrl}/imperial%20ballet/og.jpg`
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
